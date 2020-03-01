@@ -4,6 +4,7 @@
  *  double clik on the Gemma M0 Reset button TWICE before uploading the programm!!
  *  download following libraries: Wire, Adafruit_Sensor, Adafruit_NeoPixel for the NeoPixel Ring
  *  and Adafruit_LIS3DH for the accelerometer
+ * https://mstronik.blog/2019/03/09/gemma-m0-lis3dh-accelerometer
  */
 
 #include <Wire.h>
